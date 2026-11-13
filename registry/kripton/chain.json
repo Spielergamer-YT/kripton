@@ -47,7 +47,11 @@
     },
     "genesis": {
       "genesis_url": "https://kripton.live/genesis.json"
-    }
+    },
+    "recommended_version": "v0.2.0",
+    "compatible_versions": [
+      "v0.2.0"
+    ]
   },
   "images": [
     {

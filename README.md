@@ -16,6 +16,8 @@ Dieses Repository enthält **nur Chain-Daten** (Genesis und Registry-Dateien), k
 | RPC | https://rpc.kripton.live |
 | REST | https://api.kripton.live |
 | Peer | `13d588d179741b6e165d4844ff2e691c281c0a7b@kripton.live:26656` |
+| IBC zu Osmosis | KRIPTON `channel-0` ↔ Osmosis `channel-111106` (seit 13.11.2026) |
+| KPT auf Osmosis | `ibc/B2F710776B6275553AC5C26DF5730D0ABB9ADA55CF3461646BBBF09BC28CFE39` |
 
 ## Menge selbst prüfen
 
@@ -34,7 +36,9 @@ sha256sum -c genesis.sha256
 | `genesis.json`, `genesis.sha256` | Genesis-Datei von `kripton-1` und ihre Prüfsumme |
 | `registry/kripton/chain.json` | Chain-Beschreibung für die Cosmos Chain Registry |
 | `registry/kripton/assetlist.json` | Coin-Beschreibung (KPT) für die Registry |
+| `registry/kripton/versions.json` | Software-Versionen und Upgrades |
 | `registry/kripton/images/kpt.png` | Logo |
+| `registry/_IBC/kripton-osmosis.json` | IBC-Kanal zu Osmosis |
 
 ## Hinweis
 
