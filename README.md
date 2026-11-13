@@ -19,6 +19,7 @@ Dieses Repository enthält **nur Chain-Daten** (Genesis und Registry-Dateien), k
 | Peer | `13d588d179741b6e165d4844ff2e691c281c0a7b@kripton.live:26656` |
 | IBC zu Osmosis | KRIPTON `channel-0` ↔ Osmosis `channel-111106` (seit 13.11.2026) |
 | KPT auf Osmosis | `ibc/B2F710776B6275553AC5C26DF5730D0ABB9ADA55CF3461646BBBF09BC28CFE39` |
+| Pool | Osmosis KPT/USDC-Pool [#3699](https://app.osmosis.zone/pool/3699), tauschen über https://kripton.live/handel/ |
 
 ## Menge selbst prüfen
 
@@ -43,4 +44,4 @@ sha256sum -c genesis.sha256
 
 ## Hinweis
 
-Keine Anlageberatung und kein Angebot zum Kauf. KPT ist derzeit auf keinem Handelsplatz handelbar und hat keinen Marktpreis. Kryptowerte sind riskant, ein Totalverlust ist möglich.
+Keine Anlageberatung und kein Angebot zum Kauf. Der einzige Marktplatz für KPT ist ein sehr kleiner Pool auf Osmosis (#3699); sein Preis kann stark schwanken. Kryptowerte sind riskant, ein Totalverlust ist möglich.
