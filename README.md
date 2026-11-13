@@ -15,6 +15,7 @@ Dieses Repository enthält **nur Chain-Daten** (Genesis und Registry-Dateien), k
 | Genesis sha256 | `1e68db6ed52754fc84c7f793dbf5c64fcd70036420334a2f2d61b5722aa5c2e5` |
 | RPC | https://rpc.kripton.live |
 | REST | https://api.kripton.live |
+| Block-Explorer | https://kripton.live/explorer/ |
 | Peer | `13d588d179741b6e165d4844ff2e691c281c0a7b@kripton.live:26656` |
 | IBC zu Osmosis | KRIPTON `channel-0` ↔ Osmosis `channel-111106` (seit 13.11.2026) |
 | KPT auf Osmosis | `ibc/B2F710776B6275553AC5C26DF5730D0ABB9ADA55CF3461646BBBF09BC28CFE39` |

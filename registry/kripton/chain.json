@@ -88,5 +88,12 @@
       }
     ]
   },
-  "explorers": []
+  "explorers": [
+    {
+      "kind": "kripton-explorer",
+      "url": "https://kripton.live/explorer/",
+      "tx_page": "https://kripton.live/explorer/#/tx/${txHash}",
+      "account_page": "https://kripton.live/explorer/#/account/${accountAddress}"
+    }
+  ]
 }
