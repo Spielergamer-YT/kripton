@@ -3,7 +3,7 @@
   "chain_name": "kripton",
   "assets": [
     {
-      "description": "Nativer Coin der KRIPTON-Blockchain. Feste Gesamtmenge von 10.000.000 KPT, keine Inflation.",
+      "description": "Native coin of the KRIPTON blockchain. Fixed total supply of 10,000,000 KPT, no inflation.",
       "denom_units": [
         {
           "denom": "ukpt",

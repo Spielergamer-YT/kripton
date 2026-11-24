@@ -4,7 +4,6 @@
   "versions": [
     {
       "name": "v1",
-      "tag": "v0.1.0",
       "height": 1,
       "next_version_name": "v2-ibc",
       "consensus": {
@@ -18,7 +17,6 @@
     },
     {
       "name": "v2-ibc",
-      "tag": "v0.2.0",
       "proposal": 1,
       "height": 21189,
       "recommended_version": "v0.2.0",
