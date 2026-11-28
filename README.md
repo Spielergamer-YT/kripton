@@ -3,7 +3,8 @@
 # KRIPTON (KPT)
 
 Eigenständige Layer-1-Blockchain mit fester Menge von **10.000.000 KPT**.
-Website: **https://kripton.live**
+Website: **https://kripton.live**  
+X: **[@KriptonChain](https://x.com/KriptonChain)**
 
 Dieses Repository enthält **nur Chain-Daten** (Genesis und Registry-Dateien), keinen Quellcode.
 
