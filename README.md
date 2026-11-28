@@ -20,6 +20,8 @@ Dieses Repository enthält **nur Chain-Daten** (Genesis und Registry-Dateien), k
 | IBC zu Osmosis | KRIPTON `channel-0` ↔ Osmosis `channel-111106` (seit 13.11.2026) |
 | KPT auf Osmosis | `ibc/B2F710776B6275553AC5C26DF5730D0ABB9ADA55CF3461646BBBF09BC28CFE39` |
 | Pool | Osmosis KPT/USDC-Pool [#3699](https://app.osmosis.zone/pool/3699), tauschen über https://kripton.live/handel/ |
+| Cosmos Chain Registry | [`kripton/`](https://github.com/cosmos/chain-registry/tree/master/kripton) (seit 27.11.2026) |
+| Osmosis-App | als nicht verifiziertes Asset gelistet (seit 27.11.2026) |
 
 ## Menge selbst prüfen
 
